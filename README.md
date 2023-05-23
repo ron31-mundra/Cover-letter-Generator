@@ -1,5 +1,7 @@
 # Cover-letter-Generator
 
+![](https://github.com/ron31-mundra/Cover-letter-Generator/blob/master/cover_letter.gif)
+
 
 The Cover Letter Generator is a project that utilizes OpenAI's GPT-3 model to automatically generate cover letters based on basic job details
 provided by the user. It aims to simplify and expedite the process of creating customized cover letters for job applications.
