@@ -1,8 +1,0 @@
-Dear Technical Hiring Manager,
-
-I am excited about the Python Developer job at Hashtrust and my experience matches the qualifications you are looking for including a Bachelor's degree in computer science, computer engineering, or related field,1-2 years of experience as a Python developer, and Knowledge of Python and related frameworks including Django and Flask. I am passionate about Ability to collaborate on projects and work independently when required.
-
-Please contact me to discuss any questions you may have about my qualifications or to schedule an interview. Thank you for your time and consideration.
-
-Sincerely,
-Ronak Mundra
